@@ -16,10 +16,10 @@ CHECKOUTPARENTFOLDER="HE3"
 SHA=NA
 
 #github specific
-GITUSER="hoagsgit"
-GITTOKEN="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"
-GITHUBURL="https://$GITUSER:$GITTOKEN@github.com/hoagstech/HE3"
-GITBRANCH="dev"
+GITUSER="Hema3041"
+GITTOKEN="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"
+GITHUBURL="https://$GITUSER:$GITTOKEN@github.com/Hema3041/Test"
+GITBRANCH="main" 
 GITSHA="NA"
 
 #patch folder
